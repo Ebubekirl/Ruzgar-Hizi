@@ -87,5 +87,4 @@ def train_and_predict(data, user_input):
 
 wind_data = pd.read_csv('wind_data.csv')
 
-# Fonksiyonu çağır
 train_and_predict(wind_data, [])
